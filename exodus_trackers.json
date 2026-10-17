@@ -1,0 +1,484 @@
+{
+  "trackers": [
+    {
+      "id": 1,
+      "name": "Teemo",
+      "categories": ["Analytics", "Location"],
+      "code_signature": "com.databerries.|com.geolocstation.",
+      "network_signature": "databerries\\.com",
+      "website": "https://www.teemo.co"
+    },
+    {
+      "id": 2,
+      "name": "FidZup",
+      "categories": ["Analytics", "Location"],
+      "code_signature": "com.fidzup.",
+      "network_signature": "fidzup",
+      "website": "https://www.fidzup.com"
+    },
+    {
+      "id": 3,
+      "name": "Audience Studio (Krux)",
+      "categories": ["Analytics", "Identification"],
+      "code_signature": "com.krux.androidsdk.",
+      "network_signature": "krxd\\.net",
+      "website": "https://www.salesforce.com"
+    },
+    {
+      "id": 10,
+      "name": "Google AdMob",
+      "categories": ["Advertisement"],
+      "code_signature": "com.google.android.gms.ads.|com.google.ads.",
+      "network_signature": "googleads\\.g\\.doubleclick\\.net|admob\\.com",
+      "website": "https://admob.google.com"
+    },
+    {
+      "id": 13,
+      "name": "Facebook Analytics",
+      "categories": ["Analytics"],
+      "code_signature": "com.facebook.appevents.|com.facebook.internal.AppEventsLogger",
+      "network_signature": "facebook\\.com/impression\\.php|graph\\.facebook\\.com",
+      "website": "https://developers.facebook.com"
+    },
+    {
+      "id": 14,
+      "name": "Facebook Audience Network",
+      "categories": ["Advertisement"],
+      "code_signature": "com.facebook.ads.",
+      "network_signature": "an\\.facebook\\.com",
+      "website": "https://www.facebook.com/audiencenetwork"
+    },
+    {
+      "id": 15,
+      "name": "Facebook Login",
+      "categories": ["Identification"],
+      "code_signature": "com.facebook.login.|com.facebook.accountkit.",
+      "network_signature": "graph\\.facebook\\.com",
+      "website": "https://developers.facebook.com"
+    },
+    {
+      "id": 16,
+      "name": "Facebook Places",
+      "categories": ["Location"],
+      "code_signature": "com.facebook.places.",
+      "network_signature": "graph\\.facebook\\.com",
+      "website": "https://developers.facebook.com"
+    },
+    {
+      "id": 17,
+      "name": "Facebook Share",
+      "categories": ["Advertisement", "Analytics"],
+      "code_signature": "com.facebook.share.",
+      "network_signature": "facebook\\.com",
+      "website": "https://developers.facebook.com"
+    },
+    {
+      "id": 20,
+      "name": "Flurry",
+      "categories": ["Analytics"],
+      "code_signature": "com.flurry.android.",
+      "network_signature": "flurry\\.com",
+      "website": "https://www.flurry.com"
+    },
+    {
+      "id": 25,
+      "name": "Google Firebase Analytics",
+      "categories": ["Analytics"],
+      "code_signature": "com.google.firebase.analytics.|com.google.android.gms.measurement.",
+      "network_signature": "app-measurement\\.com",
+      "website": "https://firebase.google.com"
+    },
+    {
+      "id": 27,
+      "name": "Firebase Crashlytics",
+      "categories": ["Crash reporting"],
+      "code_signature": "com.crashlytics.android.|com.google.firebase.crashlytics.",
+      "network_signature": "reports\\.crashlytics\\.com",
+      "website": "https://firebase.google.com"
+    },
+    {
+      "id": 28,
+      "name": "Google Tag Manager",
+      "categories": ["Analytics"],
+      "code_signature": "com.google.android.gms.tagmanager.",
+      "network_signature": "google-analytics\\.com",
+      "website": "https://tagmanager.google.com"
+    },
+    {
+      "id": 31,
+      "name": "AppsFlyer",
+      "categories": ["Analytics"],
+      "code_signature": "com.appsflyer.",
+      "network_signature": "appsflyer\\.com",
+      "website": "https://www.appsflyer.com"
+    },
+    {
+      "id": 32,
+      "name": "Adjust",
+      "categories": ["Analytics"],
+      "code_signature": "com.adjust.sdk.",
+      "network_signature": "adjust\\.com",
+      "website": "https://www.adjust.com"
+    },
+    {
+      "id": 33,
+      "name": "Branch",
+      "categories": ["Analytics", "Identification"],
+      "code_signature": "io.branch.referral.",
+      "network_signature": "branch\\.io",
+      "website": "https://branch.io"
+    },
+    {
+      "id": 34,
+      "name": "Kochava",
+      "categories": ["Analytics"],
+      "code_signature": "com.kochava.android.",
+      "network_signature": "kochava\\.com",
+      "website": "https://www.kochava.com"
+    },
+    {
+      "id": 35,
+      "name": "Singular",
+      "categories": ["Analytics"],
+      "code_signature": "net.singular.sdk.",
+      "network_signature": "singular\\.net",
+      "website": "https://www.singular.net"
+    },
+    {
+      "id": 37,
+      "name": "Unity3d Ads",
+      "categories": ["Advertisement"],
+      "code_signature": "com.unity3d.ads.|com.unity3d.services.ads.",
+      "network_signature": "unityads\\.unity3d\\.com",
+      "website": "https://unity.com/solutions/unity-ads"
+    },
+    {
+      "id": 38,
+      "name": "AppLovin",
+      "categories": ["Advertisement"],
+      "code_signature": "com.applovin.",
+      "network_signature": "applovin\\.com",
+      "website": "https://www.applovin.com"
+    },
+    {
+      "id": 39,
+      "name": "IronSource",
+      "categories": ["Advertisement"],
+      "code_signature": "com.ironsource.mediationsdk.|com.supersonicads.",
+      "network_signature": "ironsrc\\.com",
+      "website": "https://www.is.com"
+    },
+    {
+      "id": 40,
+      "name": "Chartboost",
+      "categories": ["Advertisement"],
+      "code_signature": "com.chartboost.sdk.",
+      "network_signature": "chartboost\\.com",
+      "website": "https://www.chartboost.com"
+    },
+    {
+      "id": 41,
+      "name": "Vungle",
+      "categories": ["Advertisement"],
+      "code_signature": "com.vungle.publisher.|com.vungle.warren.",
+      "network_signature": "vungle\\.com",
+      "website": "https://vungle.com"
+    },
+    {
+      "id": 42,
+      "name": "InMobi",
+      "categories": ["Advertisement"],
+      "code_signature": "com.inmobi.",
+      "network_signature": "inmobi\\.com",
+      "website": "https://www.inmobi.com"
+    },
+    {
+      "id": 43,
+      "name": "MoPub",
+      "categories": ["Advertisement"],
+      "code_signature": "com.mopub.",
+      "network_signature": "mopub\\.com",
+      "website": "https://www.mopub.com"
+    },
+    {
+      "id": 44,
+      "name": "Tapjoy",
+      "categories": ["Advertisement", "Analytics"],
+      "code_signature": "com.tapjoy.",
+      "network_signature": "tapjoy\\.com",
+      "website": "https://www.tapjoy.com"
+    },
+    {
+      "id": 45,
+      "name": "Mintegral",
+      "categories": ["Advertisement"],
+      "code_signature": "com.mintegral.msdk.|com.mbridge.msdk.",
+      "network_signature": "mintegral\\.com",
+      "website": "https://www.mintegral.com"
+    },
+    {
+      "id": 46,
+      "name": "Pangle (Bytedance)",
+      "categories": ["Advertisement"],
+      "code_signature": "com.bytedance.sdk.openadsdk.",
+      "network_signature": "pangolin-sdk-toutiao\\.com",
+      "website": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 47,
+      "name": "AdColony",
+      "categories": ["Advertisement"],
+      "code_signature": "com.adcolony.sdk.",
+      "network_signature": "adcolony\\.com",
+      "website": "https://www.adcolony.com"
+    },
+    {
+      "id": 48,
+      "name": "Smaato",
+      "categories": ["Advertisement"],
+      "code_signature": "com.smaato.soma.",
+      "network_signature": "smaato\\.net",
+      "website": "https://www.smaato.com"
+    },
+    {
+      "id": 49,
+      "name": "StartApp",
+      "categories": ["Advertisement"],
+      "code_signature": "com.startapp.android.",
+      "network_signature": "startappservice\\.com",
+      "website": "https://www.start.io"
+    },
+    {
+      "id": 50,
+      "name": "Amazon Advertisement",
+      "categories": ["Advertisement"],
+      "code_signature": "com.amazon.device.ads.",
+      "network_signature": "amazon-adsystem\\.com",
+      "website": "https://advertising.amazon.com"
+    },
+    {
+      "id": 51,
+      "name": "Yandex Mobile Ads",
+      "categories": ["Advertisement"],
+      "code_signature": "com.yandex.mobile.ads.",
+      "network_signature": "mobile\\.yandex\\.net",
+      "website": "https://yandex.com/dev/mobile-ads"
+    },
+    {
+      "id": 52,
+      "name": "Yandex Metrica",
+      "categories": ["Analytics"],
+      "code_signature": "com.yandex.metrica.",
+      "network_signature": "metrica\\.yandex\\.com",
+      "website": "https://appmetrica.yandex.com"
+    },
+    {
+      "id": 55,
+      "name": "Mixpanel",
+      "categories": ["Analytics"],
+      "code_signature": "com.mixpanel.android.",
+      "network_signature": "mixpanel\\.com",
+      "website": "https://mixpanel.com"
+    },
+    {
+      "id": 56,
+      "name": "Amplitude",
+      "categories": ["Analytics"],
+      "code_signature": "com.amplitude.api.",
+      "network_signature": "amplitude\\.com",
+      "website": "https://amplitude.com"
+    },
+    {
+      "id": 57,
+      "name": "Segment",
+      "categories": ["Analytics"],
+      "code_signature": "com.segment.analytics.",
+      "network_signature": "segment\\.io",
+      "website": "https://segment.com"
+    },
+    {
+      "id": 58,
+      "name": "Countly",
+      "categories": ["Analytics"],
+      "code_signature": "ly.count.android.",
+      "network_signature": "count\\.ly",
+      "website": "https://count.ly"
+    },
+    {
+      "id": 60,
+      "name": "OneSignal",
+      "categories": ["Analytics", "Identification"],
+      "code_signature": "com.onesignal.",
+      "network_signature": "onesignal\\.com",
+      "website": "https://onesignal.com"
+    },
+    {
+      "id": 61,
+      "name": "CleverTap",
+      "categories": ["Analytics"],
+      "code_signature": "com.clevertap.android.sdk.",
+      "network_signature": "clevertap\\.com",
+      "website": "https://clevertap.com"
+    },
+    {
+      "id": 62,
+      "name": "Braze (Appboy)",
+      "categories": ["Analytics"],
+      "code_signature": "com.appboy.|com.braze.",
+      "network_signature": "appboy\\.com|braze\\.com",
+      "website": "https://www.braze.com"
+    },
+    {
+      "id": 63,
+      "name": "Leanplum",
+      "categories": ["Analytics"],
+      "code_signature": "com.leanplum.",
+      "network_signature": "leanplum\\.com",
+      "website": "https://www.leanplum.com"
+    },
+    {
+      "id": 64,
+      "name": "Airship (Urban Airship)",
+      "categories": ["Analytics"],
+      "code_signature": "com.urbanairship.",
+      "network_signature": "urbanairship\\.com",
+      "website": "https://www.airship.com"
+    },
+    {
+      "id": 70,
+      "name": "Sentry",
+      "categories": ["Crash reporting"],
+      "code_signature": "io.sentry.",
+      "network_signature": "sentry\\.io",
+      "website": "https://sentry.io"
+    },
+    {
+      "id": 71,
+      "name": "Bugsnag",
+      "categories": ["Crash reporting"],
+      "code_signature": "com.bugsnag.android.",
+      "network_signature": "bugsnag\\.com",
+      "website": "https://www.bugsnag.com"
+    },
+    {
+      "id": 72,
+      "name": "Instabug",
+      "categories": ["Crash reporting", "Analytics"],
+      "code_signature": "com.instabug.library.",
+      "network_signature": "instabug\\.com",
+      "website": "https://instabug.com"
+    },
+    {
+      "id": 73,
+      "name": "New Relic",
+      "categories": ["Analytics", "Profiling"],
+      "code_signature": "com.newrelic.agent.android.",
+      "network_signature": "newrelic\\.com",
+      "website": "https://newrelic.com"
+    },
+    {
+      "id": 74,
+      "name": "Dynatrace",
+      "categories": ["Analytics", "Profiling"],
+      "code_signature": "com.dynatrace.android.",
+      "network_signature": "dynatrace\\.com",
+      "website": "https://www.dynatrace.com"
+    },
+    {
+      "id": 75,
+      "name": "ACRA",
+      "categories": ["Crash reporting"],
+      "code_signature": "org.acra.",
+      "network_signature": "",
+      "website": "https://github.com/ACRA/acra"
+    },
+    {
+      "id": 80,
+      "name": "Umeng Analytics",
+      "categories": ["Analytics"],
+      "code_signature": "com.umeng.analytics.|com.umeng.commonsdk.",
+      "network_signature": "umeng\\.com",
+      "website": "https://www.umeng.com"
+    },
+    {
+      "id": 81,
+      "name": "Tencent Bugly",
+      "categories": ["Crash reporting"],
+      "code_signature": "com.tencent.bugly.",
+      "network_signature": "bugly\\.qq\\.com",
+      "website": "https://bugly.qq.com"
+    },
+    {
+      "id": 85,
+      "name": "Criteo",
+      "categories": ["Advertisement"],
+      "code_signature": "com.criteo.publisher.",
+      "network_signature": "criteo\\.com",
+      "website": "https://www.criteo.com"
+    },
+    {
+      "id": 90,
+      "name": "Cuebiq",
+      "categories": ["Location"],
+      "code_signature": "com.cuebiq.",
+      "network_signature": "cuebiq\\.com",
+      "website": "https://www.cuebiq.com"
+    },
+    {
+      "id": 91,
+      "name": "Reveal Mobile",
+      "categories": ["Location"],
+      "code_signature": "com.revealmobile.",
+      "network_signature": "revealmobile\\.com",
+      "website": "https://revealmobile.com"
+    },
+    {
+      "id": 95,
+      "name": "Localytics",
+      "categories": ["Analytics"],
+      "code_signature": "com.localytics.android.",
+      "network_signature": "localytics\\.com",
+      "website": "https://www.localytics.com"
+    },
+    {
+      "id": 100,
+      "name": "Twitter / MoPub Core",
+      "categories": ["Advertisement", "Identification"],
+      "code_signature": "com.twitter.sdk.android.",
+      "network_signature": "twitter\\.com",
+      "website": "https://developer.twitter.com"
+    },
+    {
+      "id": 105,
+      "name": "VKontakte SDK",
+      "categories": ["Identification", "Analytics"],
+      "code_signature": "com.vk.sdk.",
+      "network_signature": "vk\\.com",
+      "website": "https://dev.vk.com"
+    },
+    {
+      "id": 110,
+      "name": "LINE SDK",
+      "categories": ["Identification"],
+      "code_signature": "com.linecorp.linesdk.",
+      "network_signature": "line\\.me",
+      "website": "https://developers.line.biz"
+    },
+    {
+      "id": 115,
+      "name": "TikTok Open SDK",
+      "categories": ["Analytics", "Identification"],
+      "code_signature": "com.tiktok.open.sdk.",
+      "network_signature": "tiktokv\\.com",
+      "website": "https://developers.tiktok.com"
+    },
+    {
+      "id": 120,
+      "name": "Baidu MobStat",
+      "categories": ["Analytics"],
+      "code_signature": "com.baidu.mobstat.",
+      "network_signature": "baidu\\.com",
+      "website": "https://mtj.baidu.com"
+    }
+  ]
+}
